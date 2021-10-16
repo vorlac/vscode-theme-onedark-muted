@@ -28,5 +28,10 @@
                 "path": "./themes/OneDarkMuted.json"
             }
         ]
+    },
+    "homepage": "https://github.com/salsudano/vscode-theme-onedark-muted",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/salsudano/vscode-theme-onedark-muted"
     }
 }

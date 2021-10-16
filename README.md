@@ -6,16 +6,16 @@ This theme is a variant of the [Atom One Dark Theme](https://github.com/akamud/v
 
 > Atom One Dark Javascript example screenshot for easy comparison
 
-![](https://raw.githubusercontent.com/salsudano/one-dark-calro/master/screenshots/screenshot-js.png)
+![](https://raw.githubusercontent.com/salsudano/vscode-theme-onedark-muted/master/screenshots/screenshot-js.png)
 
 
 > Python screenshot
 
-![](https://raw.githubusercontent.com/salsudano/one-dark-calro/master/screenshots/screenshot-py.png)
+![](https://raw.githubusercontent.com/salsudano/vscode-theme-onedark-muted/master/screenshots/screenshot-py.png)
 
 > C++ screenshot
 
-![](https://raw.githubusercontent.com/salsudano/one-dark-calro/master/screenshots/screenshot-cpp.png)
+![](https://raw.githubusercontent.com/salsudano/vscode-theme-onedark-muted/master/screenshots/screenshot-cpp.png)
 
 
 ## Customization
