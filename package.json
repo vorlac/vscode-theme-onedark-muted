@@ -3,12 +3,23 @@
     "displayName": "One Dark Calro",
     "description": "A muted variant of the Atom One Dark theme",
     "version": "0.0.1",
+    "publisher": "calro",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.61.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "atom",
+        "theme",
+        "dark",
+        "one dark",
+        "muted",
+        "pastel"
+    ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
