@@ -690,7 +690,6 @@
         {
             "scope": [
                 "keyword",
-                "keyword.operator.logical",
                 "keyword.operator.constructor"
             ],
             "settings": {
@@ -698,7 +697,10 @@
             }
         },
         {
-            "scope": "keyword.operator",
+            "scope": [
+                "keyword.operator",
+                "keyword.operator.logical"
+            ],
             "settings": {
                 "foreground": "#c1c4ca"
             }
