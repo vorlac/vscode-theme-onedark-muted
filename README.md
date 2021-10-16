@@ -1,13 +1,38 @@
-# README
-## This is the README for your extension "one-dark-calro"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Atom One Dark Calro Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme is a variant of the [Atom One Dark Theme](https://github.com/akamud/vscode-theme-onedark)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+> Atom One Dark Javascript example screenshot for easy comparison
+
+![](https://raw.githubusercontent.com/salsudano/one-dark-calro/master/screenshots/screenshot-js.png)
+
+
+> Python screenshot
+
+![](https://raw.githubusercontent.com/salsudano/one-dark-calro/master/screenshots/screenshot-py.png)
+
+> C++ screenshot
+
+![](https://raw.githubusercontent.com/salsudano/one-dark-calro/master/screenshots/screenshot-cpp.png)
+
+
+## Customization
+
+If you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
+
+### Custom Font
+
+The original One Dark theme does not use a custom font, for that reason I don't supply a custom font either, but  you might be used to see screenshots of the One Dark theme using the [Fira Mono](https://github.com/mozilla/Fira) font. You can easily [customize your settings](https://code.visualstudio.com/docs/getstarted/settings) to use it.  
+If you download and install the font in your system, you can add this option to have a custom font:
+
+```json
+{
+    "editor.fontFamily": "YOUR FONT, Menlo, Monaco, 'Courier New', monospace"
+}
+```
+
+## Credits
+
+[Atom One Dark Theme](https://github.com/akamud/vscode-theme-onedark)

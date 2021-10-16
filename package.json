@@ -1,7 +1,7 @@
 {
-    "name": "one-dark-calro",
-    "displayName": "One Dark Calro",
-    "description": "A muted variant of the Atom One Dark theme",
+    "name": "vscode-theme-one-dark-muted",
+    "displayName": "Atom One Dark Muted Theme",
+    "description": "A variant of the Atom One Dark theme with muted colors",
     "version": "0.0.1",
     "publisher": "calro",
     "license": "MIT",
@@ -23,9 +23,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Dark Calro",
+                "label": "Atom One Dark Muted",
                 "uiTheme": "vs-dark",
-                "path": "./themes/One Dark Calro-color-theme.json"
+                "path": "./themes/OneDarkMuted.json"
             }
         ]
     }
