@@ -2,7 +2,7 @@
     "name": "vscode-theme-one-dark-muted",
     "displayName": "Atom One Dark Muted Theme",
     "description": "A variant of the Atom One Dark theme with muted colors",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "calro",
     "license": "MIT",
     "engines": {
