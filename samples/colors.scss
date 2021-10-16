@@ -1,0 +1,26 @@
+$orange:                 #c79c74;
+$cyan:                   #83b2b6;
+$blue:                   #779dc9;
+$purple:                 #b6addb;
+$green:                  #9aaf8b;
+$red:                    #d4a4a4;
+$gray:                   #c1c4ca;
+$illegal-red:            #b87777;
+$rust-green:             #83b2b6;
+$interpolation-red:      #b87777;
+
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li { display: inline-block; }
+
+  a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+  }
+}
