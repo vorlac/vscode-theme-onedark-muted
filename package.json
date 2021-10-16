@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-calro",
+    "displayName": "One Dark Calro",
+    "description": "One Dark Monokai with muted colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Calro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Calro-color-theme.json"
+            }
+        ]
+    }
+}
