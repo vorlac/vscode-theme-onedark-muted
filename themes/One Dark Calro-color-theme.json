@@ -1,4 +1,6 @@
 {
+    "author": "calro",
+    "name": "One Dark Calro",
     "$schema": "vscode://schemas/color-theme",
     "type": "dark",
     "colors": {
@@ -1095,5 +1097,6 @@
                 "foreground": "#9358bd"
             }
         }
-    ]
+    ],
+    "uuid": "e3383d69-8e5f-457f-80ac-15f654d80a0c"
 }

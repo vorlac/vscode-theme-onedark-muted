@@ -1,7 +1,7 @@
 {
     "name": "one-dark-calro",
     "displayName": "One Dark Calro",
-    "description": "One Dark Monokai with muted colors",
+    "description": "A muted variant of the Atom One Dark theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.61.0"
