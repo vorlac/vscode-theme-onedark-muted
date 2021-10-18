@@ -1,4 +1,4 @@
-# Atom One Dark Calro Theme
+# Atom One Dark Muted Theme
 
 This theme is a variant of the [Atom One Dark Theme](https://github.com/akamud/vscode-theme-onedark)
 
