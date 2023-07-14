@@ -2,8 +2,8 @@
     "name": "vscode-theme-one-dark-muted",
     "displayName": "Atom One Dark Muted Theme",
     "description": "A variant of the Atom One Dark theme with muted colors",
-    "version": "0.0.2",
-    "publisher": "calro",
+    "version": "1.0.0",
+    "publisher": "Orlac",
     "license": "MIT",
     "engines": {
         "vscode": "^1.61.0"
@@ -29,9 +29,9 @@
             }
         ]
     },
-    "homepage": "https://github.com/salsudano/vscode-theme-onedark-muted",
+    "homepage": "https://github.com/vorlac/vscode-theme-onedark-muted",
     "repository": {
         "type": "git",
-        "url": "https://github.com/salsudano/vscode-theme-onedark-muted"
+        "url": "https://github.com/vorlac/vscode-theme-onedark-muted"
     }
 }
